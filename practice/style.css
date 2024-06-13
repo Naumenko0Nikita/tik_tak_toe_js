@@ -1,0 +1,16 @@
+.box{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    width: 70px;
+}
+
+.button_n{
+    width: 250px;
+    height: 250px;
+    font-size: 180px;
+    text-align: center;
+    color: black;
+    border: 6px solid black;
+    border-radius: 15px;
+}
